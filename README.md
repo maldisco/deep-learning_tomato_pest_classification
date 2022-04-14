@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-No Jupyter Notebook incluso neste repositório será aplicada uma rede convolucional pré-treinada (utilizando ResNet50) para classificar imagens com pragas de tomate.
+No Jupyter Notebook incluso neste repositório será aplicada uma rede convolucional pré-treinada (utilizando ResNet50) em TensorFlow/Keras para classificar imagens com pragas de tomate.
 
 O conjunto de dados pode ser encontrado em:
 * https://data.mendeley.com/datasets/s62zm6djd2/1
